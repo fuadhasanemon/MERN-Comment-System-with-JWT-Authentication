@@ -61,49 +61,13 @@ This project is designed following **real-world backend architecture** and **sca
 - JWT
 - bcrypt
 
----
-
-## 📁 Project Structure
-
-project-root/
-│
-├── server/
-│ ├── src/
-│ │ ├── controllers/
-│ │ ├── services/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ ├── middleware/
-│ │ ├── config/
-│ │ └── app.js
-│ ├── server.js
-│ └── .env
-│
-├── client/
-│ ├── src/
-│ │ ├── api/
-│ │ ├── app/
-│ │ ├── components/
-│ │ ├── features/
-│ │ │ ├── auth/
-│ │ │ └── comments/
-│ │ ├── pages/
-│ │ └── main.jsx
-│ └── package.json
-│
-└── README.md
-
-
-
----
-
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/mern-comment-system.git
-cd mern-comment-system
+git clone [https://github.com/your-username/mern-comment-system.git](https://github.com/fuadhasanemon/MERN-Comment-System-with-JWT-Authentication.git)
+cd MERN-Comment-System-with-JWT-Authentication
 
 ## 🔧 Backend Setup
 
@@ -116,12 +80,8 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_super_secret_jwt_key
 
-
-### ⚠️ Never commit .env to GitHub.
-
 ### 4️⃣ Start Backend Server
 npm run dev
-
 
 ### Backend runs on:
 
