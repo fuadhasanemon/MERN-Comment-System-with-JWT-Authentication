@@ -64,6 +64,7 @@ This project is designed following **real-world backend architecture** and **sca
 ---
 
 ## 📁 Project Structure
+
 project-root/
 │
 ├── server/
