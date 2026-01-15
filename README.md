@@ -75,11 +75,6 @@ cd MERN-Comment-System-with-JWT-Authentication
 cd server
 npm install
 
-### 3️⃣ Create .env File
-PORT=5000 
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_jwt_key
-
 ### 4️⃣ Start Backend Server
 npm run dev
 
