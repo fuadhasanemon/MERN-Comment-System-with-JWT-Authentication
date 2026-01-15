@@ -65,8 +65,8 @@ This project is designed following **real-world backend architecture** and **sca
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone [https://github.com/your-username/mern-comment-system.git](https://github.com/fuadhasanemon/MERN-Comment-System-with-JWT-Authentication.git)
+
 cd MERN-Comment-System-with-JWT-Authentication
 
 ## 🔧 Backend Setup
